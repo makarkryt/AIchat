@@ -1,0 +1,10 @@
+{
+  "description": "A modern AI chat platform for natural conversations, task assistance, content creation, and information analysis, with tools to manage chat history and personalize the experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
